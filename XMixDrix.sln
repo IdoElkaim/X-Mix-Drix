@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogics", "GameLogics\GameLogics.csproj", "{24FEE5D6-013D-4D77-9CAD-2848848068C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "WindowsFormsApp1\UserInterface.csproj", "{ED478B40-2164-4499-B220-687D7303D203}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19654897-8DF0-4754-823A-8C895A8F4AEB}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FEE5D6-013D-4D77-9CAD-2848848068C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FEE5D6-013D-4D77-9CAD-2848848068C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FEE5D6-013D-4D77-9CAD-2848848068C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FEE5D6-013D-4D77-9CAD-2848848068C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED478B40-2164-4499-B220-687D7303D203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED478B40-2164-4499-B220-687D7303D203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED478B40-2164-4499-B220-687D7303D203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED478B40-2164-4499-B220-687D7303D203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3535079E-DEF0-4A56-917A-553B66DC7B4F}
+	EndGlobalSection
+EndGlobal
